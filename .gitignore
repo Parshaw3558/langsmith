@@ -1,0 +1,4 @@
+venv/
+.indices/
+__pycache__/
+.env
